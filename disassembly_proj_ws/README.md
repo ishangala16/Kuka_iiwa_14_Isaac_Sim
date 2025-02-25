@@ -13,8 +13,4 @@ This project simulates the **KUKA iiwa 14** robotic arm using **NVIDIA Isaac Sim
 - Python libraries: `torch`, `numpy`, `scipy`
 - USD assets for the robot, table, and NIST board.
 
-## Usage
-1. Clone the repository.
-2. Run the simulation:
-   ```bash
   
